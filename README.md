@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently finishing
+- 🔭 I’m currently aiming to become a Software Developer.
 - 🌱 I’m currently learning JavaScript, React, React Native, Ruby and Rails.
 - 📫 How to reach me: vsommarbaillot@gmail.com
 -->
